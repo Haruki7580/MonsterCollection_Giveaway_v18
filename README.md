@@ -1,4 +1,4 @@
-# MonsterCollection_Giveaway_v5
+# MonsterCollection_Giveaway_v8
 色々作る。
 
 # モンコレ配布ルーレット（画像込み・4ファイル版）
