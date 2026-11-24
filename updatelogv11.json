@@ -1,0 +1,11 @@
+{
+  "version": "v11",
+  "date": "2026-11-24",
+  "title": "ロゴを追加",
+  "changes": [
+    {
+      "type": "改善",
+      "text": "ヘッダーのタイトル右側にMONSTER COLLECTIONのロゴを表示（幅の広い画面のみ）"
+    }
+  ]
+}
