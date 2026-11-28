@@ -1,0 +1,23 @@
+{
+  "version": "v22",
+  "date": "2026-11-28",
+  "title": "日本語／英語に対応 ＋ 演出①の赤が出ない不具合を修正",
+  "title_en": "Japanese / English support + fix for effect ① red not appearing",
+  "changes": [
+    {
+      "type": "新機能",
+      "text": "日本語と英語に対応：初めてサイトを開いたときに言語（日本語／English）を選ぶ画面が出ます。選んだあとはそのまま使え、言語は「⚙ 設定」からいつでも切り替えられます（モンスター名・技名などゲーム内の固有名は日本語のままです）",
+      "text_en": "Added Japanese and English support: a language chooser (日本語 / English) appears the first time you open the site. After you pick one you can use the site right away, and you can switch the language any time in ⚙ Settings (monster and move names stay in Japanese, as they are in-game proper nouns)"
+    },
+    {
+      "type": "修正",
+      "text": "設定で「赤（割れる）になる確率」を変えても、伝説レアのルーレットで演出①の赤が出なかった不具合を修正しました",
+      "text_en": "Fixed a bug where the red version of effect ① never appeared on a Legend roll, no matter what the \"chance of red (cracking)\" was set to in Settings"
+    },
+    {
+      "type": "改善",
+      "text": "更新内容タブのタイトル・説明も英語表示に対応しました",
+      "text_en": "The Updates tab titles and descriptions are now available in English too"
+    }
+  ]
+}

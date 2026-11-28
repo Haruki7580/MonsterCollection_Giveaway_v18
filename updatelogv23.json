@@ -1,0 +1,13 @@
+{
+  "version": "v23",
+  "date": "2026-11-28",
+  "title": "演出⑥「金の扉 → プレス機（5色）」を追加",
+  "title_en": "Effect ⑥ \"Golden doors → press machine (5 colors)\" added",
+  "changes": [
+    {
+      "type": "新機能",
+      "text": "演出⑥「金の扉 → プレス機（5色）」を追加：赤と金の太陽の扉が閉じる → 中央から白い光が広がって開く → 白く光ってプレス機の部屋へ → キューブが緑→水色→薄紫→ピンク→オレンジと色を変えながらプレスされる → 倉庫で箱が開いて当選モンスターが登場（伝説キャラが当たったとき、①〜⑥のONのものからランダム。設定でON/OFF・試すができます）",
+      "text_en": "Added effect ⑥ \"Golden doors → press machine (5 colors)\": red-and-gold sun doors close → they open with a white light spreading from the center → flash into the press room → the cube is pressed while changing color green → light blue → pale violet → pink → orange → a box opens in the warehouse and the winning monster appears (when a Legend monster is won; chosen at random among the ON effects ①–⑥. ON/OFF and Try are in Settings)"
+    }
+  ]
+}
